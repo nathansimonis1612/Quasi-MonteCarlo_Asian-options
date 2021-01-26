@@ -1,1 +1,1 @@
-# Quasi-MonteCarlo_Asian-options
+# Quasi-MonteCarlo to price Asian options.
